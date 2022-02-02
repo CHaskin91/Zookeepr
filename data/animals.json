@@ -108,6 +108,33 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Bunny",
+      "species": "Giraffe",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "zia",
+      "species": "dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "zia",
+      "species": "dog",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
     }
   ]
 }
